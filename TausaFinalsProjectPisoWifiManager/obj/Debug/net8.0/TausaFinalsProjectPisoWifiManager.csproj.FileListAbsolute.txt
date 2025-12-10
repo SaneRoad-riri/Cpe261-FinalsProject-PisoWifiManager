@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\bin\Debug\net8.0\TausaFinalsProjectPisoWifiManager.exe
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\bin\Debug\net8.0\TausaFinalsProjectPisoWifiManager.deps.json
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\bin\Debug\net8.0\TausaFinalsProjectPisoWifiManager.runtimeconfig.json
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\bin\Debug\net8.0\TausaFinalsProjectPisoWifiManager.dll
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\bin\Debug\net8.0\TausaFinalsProjectPisoWifiManager.pdb
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.AssemblyInfo.cs
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.dll
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\refint\TausaFinalsProjectPisoWifiManager.dll
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.pdb
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\TausaFinalsProjectPisoWifiManager.genruntimeconfig.cache
+C:\Users\HP\source\repos\TausaFinalsProjectPisoWifiManager\TausaFinalsProjectPisoWifiManager\obj\Debug\net8.0\ref\TausaFinalsProjectPisoWifiManager.dll

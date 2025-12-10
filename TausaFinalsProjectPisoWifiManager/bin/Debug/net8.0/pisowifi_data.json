@@ -1,0 +1,339 @@
+{
+  "Users": [
+    {
+      "Transactions": [
+        {
+          "PackageName": "Quick Browse - 10 mins",
+          "Amount": 1,
+          "Minutes": 10,
+          "DateTime": "2025-11-09T17:11:30.1452772+08:00"
+        },
+        {
+          "PackageName": "Extended - 12 hours",
+          "Amount": 15,
+          "Minutes": 720,
+          "DateTime": "2025-11-10T16:07:37.094674+08:00"
+        }
+      ],
+      "Username": "farahmae",
+      "Password": "Tausa"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Full Day - 24 hours",
+          "Amount": 25,
+          "Minutes": 1440,
+          "DateTime": "2025-11-10T15:58:23.7204476+08:00"
+        }
+      ],
+      "Username": "farh",
+      "Password": "sann"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Quick Browse - 10 mins",
+          "Amount": 1,
+          "Minutes": 10,
+          "DateTime": "2025-11-11T19:07:59.4372145+08:00"
+        }
+      ],
+      "Username": "rireie",
+      "Password": "san1"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Standard - 1 hour",
+          "Amount": 5,
+          "Minutes": 60,
+          "DateTime": "2025-11-19T15:38:32.1686919+08:00"
+        }
+      ],
+      "Username": "animaljam",
+      "Password": "whatthe"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Work Day - 8 hours",
+          "Amount": 10,
+          "Minutes": 480,
+          "DateTime": "2025-11-19T15:39:27.1090474+08:00"
+        }
+      ],
+      "Username": "demo1",
+      "Password": "demo1"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Standard - 1 hour",
+          "Amount": 5,
+          "Minutes": 60,
+          "DateTime": "2025-11-19T15:40:00.2969976+08:00"
+        }
+      ],
+      "Username": "demo2",
+      "Password": "demo"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Extended - 12 hours",
+          "Amount": 15,
+          "Minutes": 720,
+          "DateTime": "2025-11-19T15:40:33.6028323+08:00"
+        }
+      ],
+      "Username": "demo3",
+      "Password": "demo3"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Quick Browse - 10 mins",
+          "Amount": 1,
+          "Minutes": 10,
+          "DateTime": "2025-11-19T15:40:51.9501557+08:00"
+        }
+      ],
+      "Username": "demo5",
+      "Password": "demo5"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Work Day - 8 hours",
+          "Amount": 10,
+          "Minutes": 480,
+          "DateTime": "2025-11-19T15:41:13.0426822+08:00"
+        }
+      ],
+      "Username": "demo6",
+      "Password": "demo6"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo7",
+      "Password": "demo7"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo8",
+      "Password": "demo8"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo9",
+      "Password": "demo9"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo10",
+      "Password": "demo10"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo11",
+      "Password": "demo11"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo12",
+      "Password": "demo12"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo13",
+      "Password": "demo13"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo14",
+      "Password": "demo14"
+    },
+    {
+      "Transactions": [],
+      "Username": "demo15",
+      "Password": "demo15"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Work Day - 8 hours",
+          "Amount": 10,
+          "Minutes": 480,
+          "DateTime": "2025-11-20T19:53:11.8521969+08:00"
+        }
+      ],
+      "Username": "farahmae1",
+      "Password": "tausa"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Quick Browse - 10 mins",
+          "Amount": 1,
+          "Minutes": 10,
+          "DateTime": "2025-11-21T08:54:58.345423+08:00"
+        }
+      ],
+      "Username": "demo123",
+      "Password": "demo123"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Standard - 1 hour",
+          "Amount": 5,
+          "Minutes": 60,
+          "DateTime": "2025-11-21T08:55:43.1139131+08:00"
+        }
+      ],
+      "Username": "active1",
+      "Password": "active1"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Work Day - 8 hours",
+          "Amount": 10,
+          "Minutes": 480,
+          "DateTime": "2025-11-21T08:56:01.4623945+08:00"
+        }
+      ],
+      "Username": "active2",
+      "Password": "active2"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Extended - 12 hours",
+          "Amount": 15,
+          "Minutes": 720,
+          "DateTime": "2025-11-21T08:56:19.3300382+08:00"
+        }
+      ],
+      "Username": "active3",
+      "Password": "active3"
+    },
+    {
+      "Transactions": [
+        {
+          "PackageName": "Full Day - 24 hours",
+          "Amount": 25,
+          "Minutes": 1440,
+          "DateTime": "2025-11-21T08:56:46.1778634+08:00"
+        }
+      ],
+      "Username": "active4",
+      "Password": "active4"
+    }
+  ],
+  "Sessions": [],
+  "AllTransactions": [
+    {
+      "PackageName": "Quick Browse - 10 mins",
+      "Amount": 1,
+      "Minutes": 10,
+      "DateTime": "2025-11-09T17:11:30.1452772+08:00"
+    },
+    {
+      "PackageName": "Full Day - 24 hours",
+      "Amount": 25,
+      "Minutes": 1440,
+      "DateTime": "2025-11-10T15:58:23.7204476+08:00"
+    },
+    {
+      "PackageName": "Extended - 12 hours",
+      "Amount": 15,
+      "Minutes": 720,
+      "DateTime": "2025-11-10T16:07:37.094674+08:00"
+    },
+    {
+      "PackageName": "Quick Browse - 10 mins",
+      "Amount": 1,
+      "Minutes": 10,
+      "DateTime": "2025-11-11T19:07:59.4372145+08:00"
+    },
+    {
+      "PackageName": "Standard - 1 hour",
+      "Amount": 5,
+      "Minutes": 60,
+      "DateTime": "2025-11-19T15:38:32.1686919+08:00"
+    },
+    {
+      "PackageName": "Work Day - 8 hours",
+      "Amount": 10,
+      "Minutes": 480,
+      "DateTime": "2025-11-19T15:39:27.1090474+08:00"
+    },
+    {
+      "PackageName": "Standard - 1 hour",
+      "Amount": 5,
+      "Minutes": 60,
+      "DateTime": "2025-11-19T15:40:00.2969976+08:00"
+    },
+    {
+      "PackageName": "Extended - 12 hours",
+      "Amount": 15,
+      "Minutes": 720,
+      "DateTime": "2025-11-19T15:40:33.6028323+08:00"
+    },
+    {
+      "PackageName": "Quick Browse - 10 mins",
+      "Amount": 1,
+      "Minutes": 10,
+      "DateTime": "2025-11-19T15:40:51.9501557+08:00"
+    },
+    {
+      "PackageName": "Work Day - 8 hours",
+      "Amount": 10,
+      "Minutes": 480,
+      "DateTime": "2025-11-19T15:41:13.0426822+08:00"
+    },
+    {
+      "PackageName": "Work Day - 8 hours",
+      "Amount": 10,
+      "Minutes": 480,
+      "DateTime": "2025-11-20T19:53:11.8521969+08:00"
+    },
+    {
+      "PackageName": "Quick Browse - 10 mins",
+      "Amount": 1,
+      "Minutes": 10,
+      "DateTime": "2025-11-21T08:54:58.345423+08:00"
+    },
+    {
+      "PackageName": "Standard - 1 hour",
+      "Amount": 5,
+      "Minutes": 60,
+      "DateTime": "2025-11-21T08:55:43.1139131+08:00"
+    },
+    {
+      "PackageName": "Work Day - 8 hours",
+      "Amount": 10,
+      "Minutes": 480,
+      "DateTime": "2025-11-21T08:56:01.4623945+08:00"
+    },
+    {
+      "PackageName": "Extended - 12 hours",
+      "Amount": 15,
+      "Minutes": 720,
+      "DateTime": "2025-11-21T08:56:19.3300382+08:00"
+    },
+    {
+      "PackageName": "Full Day - 24 hours",
+      "Amount": 25,
+      "Minutes": 1440,
+      "DateTime": "2025-11-21T08:56:46.1778634+08:00"
+    }
+  ],
+  "AdminAccount": {
+    "LastLogin": "2025-12-10T20:30:03.9521703+08:00",
+    "Username": "adminFarah",
+    "Password": "admin123"
+  }
+}
